@@ -16,7 +16,7 @@ const selectingDrivers = [
 
 const createFareMultiplier = function (num) {
   return function (num) {
-    return num * 5 === 0
+    return num * 2
   }
 }
 
