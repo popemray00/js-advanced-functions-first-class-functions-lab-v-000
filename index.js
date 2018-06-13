@@ -21,5 +21,3 @@ const createFareMultiplier = function (num) {
 }
 
 const fareDoubler = createFareMultiplier(num)
-
-fareDoubler(2)
