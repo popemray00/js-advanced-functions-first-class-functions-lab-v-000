@@ -24,5 +24,4 @@ const fareDoubler = function (num) {
   return function (num) {
     return num * 2
   }
-  
 }
