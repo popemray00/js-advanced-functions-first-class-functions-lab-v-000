@@ -6,5 +6,5 @@
 }
 
 const returnLastTwoDrivers = function (drivers) {
-  return drivers.slice(5, 3);
+  return drivers.slice(2, 1);
 }
