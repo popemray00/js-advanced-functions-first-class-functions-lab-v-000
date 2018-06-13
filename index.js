@@ -19,3 +19,10 @@ const createFareMultiplier = function (num) {
     return num * 5
   }
 }
+
+const fareDoubler = function (num) {
+  return function (num) {
+    return num * 2
+  }
+  
+}
